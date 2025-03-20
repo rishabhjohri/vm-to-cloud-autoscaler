@@ -1,6 +1,8 @@
 # **VM to Cloud Autoscaler 🚀**
 *A Flask-based web app that monitors CPU usage and auto-migrates to GCP when utilization exceeds 75%.*
 
+![Architecture Diagram](images/VCC_ASS3_Flowchart.png)
+
 ## **📌 Overview**
 This project demonstrates:
 ✅ **Monitoring CPU Usage** on a **local VM**  
