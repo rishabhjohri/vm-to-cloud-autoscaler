@@ -26,7 +26,7 @@ vm-to-cloud-autoscaler/
 │— LICENSE
 │— README.md
 ```
-
+![Architecture Diagram](images/VCC_ASS3_Arch.png)
 ---
 
 # **📌 Step-by-Step Instructions**
